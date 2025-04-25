@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","file/MoreMobVariants_FIX.zip","fabric","Moonlight Mods Dynamic Assets","continuity:default","continuity:glass_pane_culling_fix","file/We-Dont-Bite-Threeie.zip","file/VanillaTweaks-Threeie.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Simple Lower Grass Sides v1.1.0.zip","file/Better-Leaves-9.2.zip","file/Os\u0027 Colorful Grasses (Mix).zip"]
-incompatibleResourcePacks:["visualoverhaul:rounddiscs","file/We-Dont-Bite-Threeie.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Simple Lower Grass Sides v1.1.0.zip","file/Os\u0027 Colorful Grasses (Mix).zip"]
+resourcePacks:["builtin/towntalk","vanilla","mod_resources","file/MoreMobVariants_FIX.zip","fabric","Moonlight Mods Dynamic Assets","continuity:default","continuity:glass_pane_culling_fix","file/We-Dont-Bite-Threeie.zip","file/VanillaTweaks-Threeie.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Simple Lower Grass Sides v1.1.0.zip","file/Better-Leaves-9.2.zip","file/Os\u0027 Colorful Grasses (Mix).zip","file/xali\u0027s Enchanted Books Addon v3 1.21.zip","file/Quark Programmer Art.zip","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/xali\u0027s Framed Planks v1.3.0.zip","file/xali\u0027s Potions Addon v1.1 for 1.21+.zip","file/xali\u0027s Potions v1.0.0.zip"]
+incompatibleResourcePacks:["builtin/towntalk","file/We-Dont-Bite-Threeie.zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/Simple Lower Grass Sides v1.1.0.zip","file/Os\u0027 Colorful Grasses (Mix).zip","file/xali\u0027s Enchanted Books Addon v3 1.21.zip","file/Quark Programmer Art.zip","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/xali\u0027s Framed Planks v1.3.0.zip","file/xali\u0027s Potions Addon v1.1 for 1.21+.zip","file/xali\u0027s Potions v1.0.0.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
