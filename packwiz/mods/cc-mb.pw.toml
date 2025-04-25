@@ -1,0 +1,13 @@
+name = "Music Box"
+filename = "cc_mb-forge-1.20.1-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "540c6a2a49aa611acc1fbfe8f96d24aa3b8c775c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6178025
+project-id = 936499

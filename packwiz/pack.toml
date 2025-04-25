@@ -1,0 +1,13 @@
+name = "Minecraft Threeie"
+author = "itsmetrevor"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8957facb8348657591fba881ef26353d1fc3dc4edc03ca7e1f60e89dbe04593c"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

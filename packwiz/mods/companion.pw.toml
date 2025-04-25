@@ -1,0 +1,13 @@
+name = "Companion 🐕"
+filename = "Companion-1.20.1-Forge-5.2.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/kto11H3W/Companion-1.20.1-Forge-5.2.2.jar"
+hash-format = "sha512"
+hash = "0ecc6fd490b3670df6597566449b70288c954b827a3e5596c89a6c3946fb3a5c5d23ae99fd3b6a2db377ec0815cb970f7f1c12b85332221454251950f05a0045"
+
+[update]
+[update.modrinth]
+mod-id = "4w0EzGRW"
+version = "kto11H3W"

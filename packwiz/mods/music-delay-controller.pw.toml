@@ -1,0 +1,13 @@
+name = "Music Delay Controller"
+filename = "MusicDelayController-1.0-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NZuFvKrt/versions/PHg3fsrQ/MusicDelayController-1.0-forge.jar"
+hash-format = "sha512"
+hash = "f355f0426c570a37133e8ab5afd4e5aba484db1dcd54c45f7c81c134a326e1ed8192a51ad45d953d4a31760791d78407a91df922f6c0ebab131cb51c989b4f4b"
+
+[update]
+[update.modrinth]
+mod-id = "NZuFvKrt"
+version = "PHg3fsrQ"

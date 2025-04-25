@@ -1,0 +1,13 @@
+name = "Treeplacer"
+filename = "treeplacer-forge-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4im8hCxA/versions/gWRIaCvA/treeplacer-forge-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "bfe04d3d6635cdcc591383414a177127dd5b15a3c52954b3497dd737e92e685b593c12ede229535245c8775e0b569f68e68a97f84d67fdb117330d4d9d769310"
+
+[update]
+[update.modrinth]
+mod-id = "4im8hCxA"
+version = "gWRIaCvA"

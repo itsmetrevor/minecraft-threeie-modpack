@@ -1,0 +1,13 @@
+name = "Notable Bubble Text (NBT)"
+filename = "NotableBubbleText-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KVBd6Odb/versions/E0es7sOW/NotableBubbleText-1.20.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "d2ea2f8c3c3ba30e07c0297755272bf66114eb76c9fd1969f6521229e3be8a59cfa7e02241a3064cf81d7b04c7211d398cced6ab5c13e9934057b0d41607b35d"
+
+[update]
+[update.modrinth]
+mod-id = "KVBd6Odb"
+version = "E0es7sOW"

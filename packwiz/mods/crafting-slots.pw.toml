@@ -1,0 +1,13 @@
+name = "Crafting Slots"
+filename = "craftingcraft-forge-1.20.1-16.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OZlgV1Dc/versions/IfWj8fm5/craftingcraft-forge-1.20.1-16.0.1.jar"
+hash-format = "sha512"
+hash = "3060cb75930135f3d478c4629fe1fa4569bf110c0ef323172310f9bbfd1be94448b94970d08e60aabef7cc67d25836ade67062a63fc9ebde1232597be8879138"
+
+[update]
+[update.modrinth]
+mod-id = "OZlgV1Dc"
+version = "IfWj8fm5"
