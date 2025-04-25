@@ -1422,7 +1422,7 @@ hash = "a5e852cdec129a54f2a4013ad806ec819ba3c2612c60e635467c6641bdc98d78"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "05292261fcdfce880b8c6a18992c3a5fcfd35a67b9108b53414695aadbbb6987"
+hash = "120cd6f3e1ffe6b0c017a5d9e6232a11ca60a41611917186595266a367b1779f"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
