@@ -1,0 +1,43 @@
+services:
+
+  minecraft-threeie:
+    image: itzg/minecraft-server:java17-graalvm
+    container_name: minecraft-threeie
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+      - "24454:24454"
+    environment:
+      - EULA: "TRUE"
+      - PACKWIZ_URL: "https://raw.githubusercontent.com/itsmetrevor/minecraft-threeie-modpack/refs/heads/main/packwiz/pack.toml"
+      - TYPE: "NEOFORGE"
+      - VERSION: "1.21.1"
+      - NEOFORGE_VERSION: "21.1.172"
+      - MEMORY: 12G
+    volumes:
+      - ./data:/data
+    labels:
+      - lazytainer.group=minecraft
+    depends_on:
+      - lazytainer
+    network_mode: service:lazytainer
+    restart: unless-stopped
+
+  lazytainer:
+    image: ghcr.io/vmorganp/lazytainer:master
+    container_name: lazytainer
+    environment:
+      - VERBOSE: false
+    ports:
+      - "25565:25565"
+      - "24454:24454"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    labels:
+      - lazytainer.group.minecraft.sleepMethod=stop
+      - lazytaienr.group.minecraft.ports=25565,24454
+      - lazytainer.group.minecraft.minPacketThreshold=2
+      - lazytainer.group.minecraft.inactiveTimeout=600
+    restart: unless-stopped
+    network_mode: bridge

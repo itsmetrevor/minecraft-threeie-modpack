@@ -1,0 +1,13 @@
+name = "GUI Effect Timer"
+filename = "guieffecttimer-1.21.1-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R0GPb3QZ/versions/W2YC5G0x/guieffecttimer-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "6adc8771fb47170cd224b241c2f181e681e3292977c09cc71bb1998117c1e3c3816dc1857d09dbdef83f3131e22a8ad695d05e65f586b1387d0c8d76611703f4"
+
+[update]
+[update.modrinth]
+mod-id = "R0GPb3QZ"
+version = "W2YC5G0x"

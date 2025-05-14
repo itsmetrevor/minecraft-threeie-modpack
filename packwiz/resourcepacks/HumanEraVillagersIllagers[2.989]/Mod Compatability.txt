@@ -1,0 +1,85 @@
+The mod compatability is mostly for newer versions above 1.14,
+mod compatability for 1.8.9 and 1.12.2 will need some planning...
+cuz theres no etf and emf mod version for 1.8.9 and 1.12.2
+
+- Archers
+- Atmospheric
+- Buzzier Bees
+- Charm
+- Ice&Fire
+- Immersive Engineering
+- Jewelry
+- King Villager
+- More Villagers
+- Paladins
+- Rogues
+- Sawmill
+- Wizards
+
+- Ars Nouveau
+- Beach Party
+- Beautify
+- Blue Skies
+- Chefs Delight
+- Domestication Innovation
+- HWG
+- MCA (the Villager Profession Part, whole mca mobs Incomplete)
+- Meadow
+- Miskatonic Mysteries
+- MNA
+
+- Lightman's Currency
+- More Mob Variants (Needs interesting zombie concept to complete)
+? Takes a Pillage
+- Villagers Plus
+- Vinery
+- Guard Villagers
+
+- Bakery
+
+- Cannibalism Conundrum
+- Better Archaeology
+- Illager Invasion
+- Brewery
+
+- Variants & Ventures
+
+- Cloud Storage
+- Cobblemon
+- Dynamic Village
+- Moster Hunter Villager
+- Quark
+- Recruits (Fresh Ani for Recruits beta testing, dunno how this works, so im just gonna wait for Freshly Modded to add recruits)
+- Supplementaries
+- Savage & Ravage
+
+- Illagers Wear Armor (Still Unavailable for Freshani Activator)
+
+- Scorched Guns
+
+- Villgers In Buckets
+- Applied Energetics 2
+- AE2: Better Villagers
+- The Conjurer
+- Garbage Collector Villager
+- Mushroom Villager Trader
+- Tough As Nails
+- Vampirism (Villager professions only, need more mental power to rework all of Vampirism models and textures)
+- Wares
+- Illagers in Disguises
+
+- Biomes We've Gone
+- Biomes O Plenty
+- Biomes You'll Go
+- Regions Unexplored
+- Workers (Professions dont work unfortunately :(  )
+- Create: Better Villagers
+
+
+
+
+Unfortuntely impossible for mod compats:
+- Epic Fight (This is a tragedy for Human Era: Villagers & Illagers, this is a sad era for America.... and the whole world, truly sad, this is very unfortunate)
+- Miner Villager
+- Bulwark from Immersive Engineering
+- Skirmisher from It Takes A Pillage

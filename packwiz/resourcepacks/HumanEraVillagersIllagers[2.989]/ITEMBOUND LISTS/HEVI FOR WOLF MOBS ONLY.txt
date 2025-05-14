@@ -1,0 +1,17 @@
+itembound naming
+
+(Get a nametag and name the following on the anvil, 
+and then right click the Wolf with edited nametag on your hand)
+
+
+
+FOR WOLF MOBS:
+
+- desert unit m
+- desert unit f
+- green unit m
+- green unit f
+- unit m
+- unit f
+- snow unit m
+- snow unit f

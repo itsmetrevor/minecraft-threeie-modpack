@@ -1,0 +1,13 @@
+name = "Achievements Optimizer"
+filename = "AchievementOptimizer-neoforge-1.21.1-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SvXrP8rT/versions/pScM0ZXm/AchievementOptimizer-neoforge-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "f57c828ceeaca84aaf862cbdcec4bb7e025acc54036da66073cd0b0d207a8e8954e18b531d28b5d6acd56041843b32db1393aebf6bf2e7fac5a63b1ad42caa15"
+
+[update]
+[update.modrinth]
+mod-id = "SvXrP8rT"
+version = "pScM0ZXm"

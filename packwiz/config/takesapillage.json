@@ -1,0 +1,7 @@
+{
+  "replaceIronGolemsWithClayGolems": false,
+  "enablePillageSieges": false,
+  "enableArcherInRaids": true,
+  "enableLegionerInRaids": true,
+  "enableSkirmisherInRaids": true
+}

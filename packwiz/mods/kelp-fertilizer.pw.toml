@@ -1,0 +1,13 @@
+name = "Kelp Fertilizer"
+filename = "kelpfertilizer-1.21.1-3.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eKxUpBGQ/versions/QuXBMrel/kelpfertilizer-1.21.1-3.4.jar"
+hash-format = "sha512"
+hash = "44e7547c418b13a7fd2e2349ff430c1a1fd060d4838bde79cc5d8923df803135a8f9e712627e9191f7309ac922d70b383020ae5102d14219a406bc44752bee44"
+
+[update]
+[update.modrinth]
+mod-id = "eKxUpBGQ"
+version = "QuXBMrel"

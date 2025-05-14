@@ -1,0 +1,13 @@
+name = "Armourer's Workshop"
+filename = "armourersworkshop-forge-1.21.1-3.2.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y4JF3gXL/versions/Sas6PgVf/armourersworkshop-forge-1.21.1-3.2.0-beta.jar"
+hash-format = "sha512"
+hash = "ae2be1ecc01a512b6691d26e32dc961bf073101fd8d2244d83a0e07a1e4d163482279aea0dc7432aa4fa39728b670becb55224cd3572742d26a49ac9fc2fe4b5"
+
+[update]
+[update.modrinth]
+mod-id = "y4JF3gXL"
+version = "Sas6PgVf"

@@ -1,0 +1,5 @@
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude server data generated from the docker server
+server/data/

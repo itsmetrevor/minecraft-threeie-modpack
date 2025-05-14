@@ -1,0 +1,13 @@
+name = "Natural Charcoal"
+filename = "naturalcharcoal-1.21.1-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/19crKDsZ/versions/GJdJldgx/naturalcharcoal-1.21.1-1.1.jar"
+hash-format = "sha512"
+hash = "e668897644accbf4094769586d5b2187eab4e9c0c4190ddf2b0e5751bdea4cb0e1276bc85c43b2ba2c473da3354e6517227a4975f2b4f4ddd57493efdb47bf1a"
+
+[update]
+[update.modrinth]
+mod-id = "19crKDsZ"
+version = "GJdJldgx"

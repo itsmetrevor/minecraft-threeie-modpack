@@ -1,0 +1,13 @@
+name = "Easy Crafting Table"
+filename = "easycraftingtable-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qFCmpv7l/versions/SjfnOQBH/easycraftingtable-1.0.1.jar"
+hash-format = "sha512"
+hash = "87972748f5067d95bca0a615f9f123bd99eec207a2c3a5b2d365c6edefffc55dc448b4b5fb9119c3c846341be679d5dfc746e1e20e7371820a6ff8a46df3399b"
+
+[update]
+[update.modrinth]
+mod-id = "qFCmpv7l"
+version = "SjfnOQBH"
