@@ -1,7 +1,7 @@
 services:
 
   minecraft-threeie:
-    image: itzg/minecraft-server:java17-graalvm
+    image: itzg/minecraft-server:java21-graalvm
     container_name: minecraft-threeie
     tty: true
     stdin_open: true
@@ -10,7 +10,7 @@ services:
       - "24454:24454"
     environment:
       - EULA: "TRUE"
-      - PACKWIZ_URL: "https://raw.githubusercontent.com/itsmetrevor/minecraft-threeie-modpack/refs/heads/main/packwiz/pack.toml"
+      - PACKWIZ_URL: "https://raw.githubusercontent.com/itsmetrevor/minecraft-threeie-modpack/refs/heads/1.21.1/packwiz/pack.toml"
       - TYPE: "NEOFORGE"
       - VERSION: "1.21.1"
       - NEOFORGE_VERSION: "21.1.172"
