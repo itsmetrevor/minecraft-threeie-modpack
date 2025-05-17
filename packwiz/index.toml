@@ -998,7 +998,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "97d4aedd0194494261e8a4915dc0041540bf4268203b3cd69486496bfa884845"
+hash = "b466ebf948923314ce67d19a5152246c1d8a2e91a202372e145ac512715b702e"
 
 [[files]]
 file = "kubejs/config/web_server.json"
