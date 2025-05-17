@@ -998,7 +998,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "b466ebf948923314ce67d19a5152246c1d8a2e91a202372e145ac512715b702e"
+hash = "8319d1c36c53e44fbb98ca1ee82c7ca799ae8d9f99c679988b86855614a82a73"
 
 [[files]]
 file = "kubejs/config/web_server.json"
@@ -1187,6 +1187,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "6af579972dbebc9e302f0df2dc80ac7dc3150951550f4dfad6698878ffa305c8"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
@@ -1364,6 +1369,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
 metafile = true
 
 [[files]]
@@ -1562,11 +1572,6 @@ hash = "741334c0b04ce1321a30ac548b4dd663670c2e1daa53ecf0d6308541c65f0c98"
 metafile = true
 
 [[files]]
-file = "mods/natural-charcoal.pw.toml"
-hash = "10c5de92655d772eb4a2df187024152240d86c07f30d1381092384c19e1d2780"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
@@ -1639,6 +1644,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
+file = "mods/pretty-rain.pw.toml"
+hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
 metafile = true
 
 [[files]]
@@ -1812,6 +1822,16 @@ hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
 metafile = true
 
 [[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "753745ebdd476d1b75252027f8cbbbba7334a71c49f9803652a53f5af111232c"
+metafile = true
+
+[[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "8ba653529563220d126721fe8bb387d2f0cb8c93159291a146eb05e4bbd646f2"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
@@ -1884,10 +1904,6 @@ hash = "bd10ad9319ab72297d413cc6a5be28c0091156b0568f6335a37edf3de0deb1fa"
 [[files]]
 file = "resourcepacks/HEV Human Guard FreshAni.zip"
 hash = "8cdf4bb4158b2d544f71a0665d62d6f1f680d5094bfc0d3cf802f95ca80c89bc"
-
-[[files]]
-file = "resourcepacks/HEV Mob Talker Witch.zip"
-hash = "b6668ac0c8d607597a70df24a87e9b25f511b85b59d31b7c86cae5d8ef311cf4"
 
 [[files]]
 file = "resourcepacks/HumanEraVillagersIllagers[2.989].zip.bak"
