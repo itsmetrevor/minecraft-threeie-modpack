@@ -465,6 +465,10 @@ file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
+file = "config/granularmobgriefing-common.toml"
+hash = "01f73d7ea7fd3bf0760247c33055b4c8ab145a9861a05553a284d4661b5b9d61"
+
+[[files]]
 file = "config/guardvillagers-client.toml"
 hash = "d73f511be1480c9dec4c54913e2f571ee6d4f430560e9bd0b998bf88d1dfef6a"
 
@@ -703,18 +707,6 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 [[files]]
 file = "config/paxi/datapacks/VanillaTweaks_Recipes_c286596_MC1.21-1.21.5.zip"
 hash = "0c754affaae85c98e1bb310fffe4e572be3f87c8b43c560a1274a610bf9df4f1"
-
-[[files]]
-file = "config/paxi/datapacks/anti creeper grief v1.1.11 (MC 1.21-1.21.5).zip"
-hash = "54d1ea63fbd93f2f31ef46d6216eba04bc34b60bd9cefe364fb5d84fe6e32f40"
-
-[[files]]
-file = "config/paxi/datapacks/anti enderman grief v1.1.11 (MC 1.21-1.21.5).zip"
-hash = "8c6cf49517340a306f78a2fb2f6ff5f3d1984ccd7443c7a0ebcea1ffb72f41d5"
-
-[[files]]
-file = "config/paxi/datapacks/anti ghast grief v1.1.11 (MC 1.21-1.21.5).zip"
-hash = "053d6eb0b6404bf43d53d815be10bd53c64da4da743f431a222409c275c59733"
 
 [[files]]
 file = "config/paxi/datapacks/cauldron concrete v3.0.4 (MC 1.21-1.21.5).zip"
@@ -1404,6 +1396,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
+metafile = true
+
+[[files]]
+file = "mods/granular-mob-griefing.pw.toml"
+hash = "01d40d2efe781865ee06644cd93b915600d0bd8598b076e6922da64e6d92a6fe"
 metafile = true
 
 [[files]]
