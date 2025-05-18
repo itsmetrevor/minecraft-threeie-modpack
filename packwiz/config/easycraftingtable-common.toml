@@ -1,4 +1,0 @@
-#Whether it is required to have a crafting table in your inventory at all times after opening the crafting screen from the item
-requireInInv = false
-#A list of items that will trigger the crafting table screen, as well as keep the crafting screen open (if requireInInventory is true)
-craftingTableItems = ["minecraft:crafting_table", "minecraft:crafter"]

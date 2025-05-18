@@ -1,7 +1,0 @@
-itembound naming
-
-(Rename the chosen items with these on the anvil:)
-
-Weapons:
-(# Sword):
-- wooden/stone/iron/diamond/gold/netherite Spear
