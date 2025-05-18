@@ -65,10 +65,6 @@ file = "config/betterbeaconplacement.json5"
 hash = "10810d85151ee49afaf93caf9fa6f6af457d6c8cc45f4094b23487ad64fcadf0"
 
 [[files]]
-file = "config/betterchunkloading.json"
-hash = "5c77c279bb5b3f74ae8ecd8cace949ff87276f1a6753a0c5595721802b209c70"
-
-[[files]]
 file = "config/betterclouds-v1.json"
 hash = "0e96799dfa2be1f460b5bedf23d96d18be6a46f80b9e63434af10760852a7993"
 
@@ -181,10 +177,6 @@ file = "config/chat_heads.json5"
 hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
 
 [[files]]
-file = "config/chunksending.json"
-hash = "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
-
-[[files]]
 file = "config/collective.json5"
 hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
@@ -207,10 +199,6 @@ hash = "9eaf827304515cc6ec720cb24726ce46efeea1e936d2740b3f74ec1a624fce33"
 [[files]]
 file = "config/conduitspreventdrowned.json5"
 hash = "50b2de902c83be25a685aeb72490dce1fe065294de5cb549f25512ba5561fa42"
-
-[[files]]
-file = "config/connectivity.json"
-hash = "15de6d09567ab4c8194a1b0b344343ac0e5c9d9e4a72592696dafd0ff6b64587"
 
 [[files]]
 file = "config/connector.json"
@@ -241,10 +229,6 @@ file = "config/crepperoverhaul-client.jsonc"
 hash = "8ebd8ce17fd98dc18dde0d3271b9237fbc98d9664647940308c9a4d7804dc200"
 
 [[files]]
-file = "config/cupboard.json"
-hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
-
-[[files]]
 file = "config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
@@ -267,10 +251,6 @@ hash = "6e90cdb4f40e00a310741ba15682d4b92d1ec288219ab9533d067ed7d1c2e11d"
 [[files]]
 file = "config/deeperdarker-common.toml"
 hash = "216cba34f4b7bb6f75ac414c98bea3ec02765adaa369f3d681c3b01ee62faaf5"
-
-[[files]]
-file = "config/dimthread-common.toml"
-hash = "2c674913628965c945b759d45aaa056b975acc9edaf5021e98849a2907c0d866"
 
 [[files]]
 file = "config/dismountentity.json5"
@@ -769,10 +749,6 @@ file = "config/randommobeffects/blacklist.txt"
 hash = "a5d68835ccf369e45a103b43b971d9732f23dba45ad609a948a8cd8209d958cd"
 
 [[files]]
-file = "config/recipeessentials.json"
-hash = "96b6764c28555977f3f2f7091b881de3c3def4560584ac13a1c42b6c692a6755"
-
-[[files]]
 file = "config/resourceful-config-web.json"
 hash = "cb3a84751068660a02d2ca65fa1a3765371216219300ee1ce15128b120f390e7"
 
@@ -807,10 +783,6 @@ hash = "5728a880c5b5fcd556ae2e1b0c904f868250acdaa343f3298eaae1fb1e374d28"
 [[files]]
 file = "config/skinlayers.json"
 hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
-
-[[files]]
-file = "config/smoothchunk.json"
-hash = "5f85b2c857c2561cf720745f724d20befce7bb58732083259a798263c0af99f2"
 
 [[files]]
 file = "config/soaring_phantoms-server.toml"
@@ -879,10 +851,6 @@ hash = "ad2d93625c17340af17d4f8160853cb2a8db338ebc5e8989c574798039379f56"
 [[files]]
 file = "config/sounds/world.json"
 hash = "820bccce5bd99fdeed446f04aa6b332d6353ece919189db1a29bef9618c12564"
-
-[[files]]
-file = "config/structureessentials.json"
-hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
 file = "config/takesapillage.json"
@@ -1069,11 +1037,6 @@ hash = "f130adaa07e1db40707bffab3f33d58b27d2278e6ce0a26eea988d16295df185"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "07e756eec150953e1da73adbee0c1d4d79cd9c48bc9c78ae4d3591e7097b45f2"
-metafile = true
-
-[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "3f63afd3db4e5a076efe4438130898cd7d91782f2703f3f195470240081c3866"
 metafile = true
@@ -1104,6 +1067,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "cee929d9295646c0726c19af7ac822dd18b474536f085844c202757e3521be97"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
@@ -1129,11 +1097,6 @@ hash = "144ba9e7889fad8c466f9632a1a083246eab116b919549c8c2c374f59334f2ae"
 metafile = true
 
 [[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -1156,11 +1119,6 @@ metafile = true
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "b171daa46eaf38e18b576293dec212a6e03cf732fdcc86f4835a3b4822b4ef7f"
-metafile = true
-
-[[files]]
-file = "mods/connectivity.pw.toml"
-hash = "6376e650ad6e514f6cc8d0a932a7b1ec5269a7a2baf9c119be085a4bdc086ac8"
 metafile = true
 
 [[files]]
@@ -1209,11 +1167,6 @@ hash = "c25d279a9cec066168bace606ec1b03f3bb371c44bf2c878472d74e5a3c425b7"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "1e2db95b596dc6b01af99b03e018a3a8280639bf4e8dfc8ba0b19f471f58f8bf"
 metafile = true
@@ -1231,11 +1184,6 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
-metafile = true
-
-[[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "271324529e224d4c1790b9446c7785aff4fa275fd96e1f3e7e329536ee0838c9"
 metafile = true
 
 [[files]]
@@ -1366,11 +1314,6 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
 hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
-metafile = true
-
-[[files]]
-file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "967e2145e86fb9de3ef8f9d0bb20cb1d15ccb294cab7b2611fdebcf405dbf98d"
 metafile = true
 
 [[files]]
@@ -1659,11 +1602,6 @@ hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
 
 [[files]]
-file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "fba0893c1da8c6e93beb9dac0e03228ebc108e3016a44d43c6e4d1faea2a16f2"
-metafile = true
-
-[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "c92edc349660c91cadfa880e2ba26382123467f96a094849220f6fcce977d858"
 metafile = true
@@ -1719,11 +1657,6 @@ hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
-metafile = true
-
-[[files]]
 file = "mods/soaring-phantoms.pw.toml"
 hash = "00f57a405ee52be48daa550afdca63545107f5d2d51eb257a73b62c8563f35f9"
 metafile = true
@@ -1766,11 +1699,6 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "9fd8a776007787ce2f9015d2371abf3891b7cc070ba10f233205548ebc6dd82a"
-metafile = true
-
-[[files]]
-file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "fa83a43df0c7545b4c6d9f82f3c50fb6634c965aa742bab3aa626b7b705f09ac"
 metafile = true
 
 [[files]]
