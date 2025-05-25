@@ -26,7 +26,7 @@ hash = "d2699076e6295aefd93532404e9f82608f7180022ce352b36690e66e03f3b85d"
 
 [[files]]
 file = "config/effortless.toml"
-hash = "9f8b0799e81aa5a4a7698d185a491dc16ee79b13a5346a2bb4c44431074435d6"
+hash = "77a634384a17f2713ea90574daa5954859e2f4a54ffe9734486bf85a12f2e467"
 
 [[files]]
 file = "config/emi.css"
