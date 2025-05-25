@@ -1,0 +1,13 @@
+name = "Epic Knights: Shields Armor and Weapons"
+filename = "[1.21-neoforge]-Epic-Knights-9.23.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L6jvzao4/versions/IJPOCMCt/%5B1.21-neoforge%5D-Epic-Knights-9.23.jar"
+hash-format = "sha1"
+hash = "5645067804583277a3a205c5addcf1655ea31ddf"
+
+[update]
+[update.modrinth]
+mod-id = "L6jvzao4"
+version = "IJPOCMCt"

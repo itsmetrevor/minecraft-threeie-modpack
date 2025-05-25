@@ -1,5 +1,5 @@
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.9.3.zip","file/HumanEraVillagersIllagers.zip","file/HEV FreshAni Activator.zip","file/HEV Human Guard Armor Texture Remover.zip","file/HEV Human Guard FreshAni.zip","file/NoVillagerNoises[1.0.1].zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/VanillaTweaks_r546020_MC1.21.x.zip","file/Nautilus3D-V2.3.zip","file/Better-Leaves-9.2.zip","file/FancyFast Bushy Leaves.zip"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.9.3.zip","file/Nautilus3D-V2.3.zip","file/FancyFast Bushy Leaves.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","continuity:default","continuity:glass_pane_culling_fix","file/HumanEraVillagersIllagers.zip","file/HEV Human Guard Armor Texture Remover.zip","file/HEV Human Guard.zip","file/NoVillagerNoises[1.0.1].zip","file/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip","file/VanillaTweaks_r546020_MC1.21.x.zip","file/Nautilus3D-V2.3.zip","file/Better-Leaves-9.2.zip","file/FancyFast Bushy Leaves.zip"]
+incompatibleResourcePacks:["file/Nautilus3D-V2.3.zip","file/FancyFast Bushy Leaves.zip"]
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -88,18 +88,10 @@ key_key.trashslot.delete:key.keyboard.unknown
 key_key.trashslot.delete_all:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.deeperdarker.boost:key.keyboard.x
-key_key.deeperdarker.transmit:key.keyboard.x:SHIFT
 key_key.kubejs.kubedex:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
-key_key.map_atlases.open_minimap:key.keyboard.m
-key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract
-key_key.map_atlases.zoom_in_minimap:key.keyboard.keypad.add
-key_key.map_atlases.place_pin:key.keyboard.n
-key_key.map_atlases.increase_slice:key.keyboard.unknown
-key_key.map_atlases.decrease_slice:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2

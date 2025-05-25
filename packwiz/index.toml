@@ -26,7 +26,7 @@ hash = "d2699076e6295aefd93532404e9f82608f7180022ce352b36690e66e03f3b85d"
 
 [[files]]
 file = "config/effortless.toml"
-hash = "0f749059fa6cf715bdcee1f1abd559b7afd8e4ff3335b73857a887bed72ce50b"
+hash = "9f8b0799e81aa5a4a7698d185a491dc16ee79b13a5346a2bb4c44431074435d6"
 
 [[files]]
 file = "config/emi.css"
@@ -54,23 +54,15 @@ hash = "2b85e890bbc7b3c86559c8b7c18980b57a77bb316fd3498e028833f9ce410828"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "56074366aebbdb195ae9b3ea81eb18c3255e14d81ec9aa8b093c54c457bdc8ad"
+hash = "ae7e74017ded4cff0cf25683f53fd766b2f3d2f3d8be65b2810044614e66b975"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "91eff5ec9e46ed027f92fe50a5dec83f03b7956d10904bd655bc240ab6f11513"
+hash = "d313dc74adf0487f89d9a80189007e4128fd505ceb22bf67c567bd230c44e4a6"
 
 [[files]]
 file = "config/localizedchat-common.toml"
 hash = "b3926fe5d9f552f34b9554b2e20df1a255352ff9072a51fb79e6d0069dcac8e5"
-
-[[files]]
-file = "config/map_atlases-client.toml"
-hash = "f93397d45e5d1b2e1f8c930cb9bde77071b8cc4f7d8c24f034abc4c233448f59"
-
-[[files]]
-file = "config/map_atlases-common.toml"
-hash = "f07713d30d634d6b0f57076c48be7a9a087b43de98aea6fd192e265bb68bd0dd"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -129,6 +121,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/phantasm.json"
+hash = "365567bdcb451a356eb55489e81d6fdb036c41a34f7b2e13bba515d7da0864c9"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "148686ddaaf132e6181efcb7c510dd5d75ac47ed424c3203fd102fecda8f62da"
 
@@ -142,7 +138,7 @@ hash = "bc136fe0d2f76fd386a6bd3c7548b97636205393d755f6a519e3d8e5f99ceae0"
 
 [[files]]
 file = "config/waves/waves.json"
-hash = "17a51443d9c06c9573f0676fef8887b759ddee680e4d7cdbdd83abaa80b1507b"
+hash = "fbf81486b69a5892e53aaf7819eb8aee496dc2fe187535b0a32094e98c551737"
 
 [[files]]
 file = "icon.png"
@@ -154,7 +150,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "266e65d695c27fd1303915fa7f85cc50a1f163b7ce24dec2358dc420b5a99ae3"
+hash = "9c563ae32ee6aa3325c138061f70fabfdd1fd0c39dba62b33ab60716e7a33a29"
 
 [[files]]
 file = "kubejs/config/web_server.json"
@@ -172,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "8a3a856ecee4acb255e88d9212d5032a1431320171d3becf42153fc22172d76c"
+metafile = true
+
+[[files]]
+file = "mods/aileron.pw.toml"
+hash = "0af8fcb9e25fb9b6d3f3aee4dfc383ea2e76a692b7b68c3996c71ea9b874335e"
 metafile = true
 
 [[files]]
@@ -210,6 +211,11 @@ hash = "00ccd2d6d07bcf0cfc32bf8bba10f81c9966f067267ef5100e47c723b64b5d12"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "375df90a88adfa6b7216a19447eaba305827c5146dfcc4a1f1ea03aed35bad91"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
 metafile = true
@@ -227,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "3f63afd3db4e5a076efe4438130898cd7d91782f2703f3f195470240081c3866"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9dbf8a6d23a78c477b9a0072555c46606c17354711c7093367a0410f676a2902"
 metafile = true
 
 [[files]]
@@ -252,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
+metafile = true
+
+[[files]]
+file = "mods/builders-jetpack-mod.pw.toml"
+hash = "d9d6760894cdf9702c59918d25444e1c37e8eeb99edb8581e1d51d15a682ed92"
 metafile = true
 
 [[files]]
@@ -340,6 +356,11 @@ hash = "b2b7a901e7e24f6fbd2f2236320c9c2df88aa30f04a7eb643d723010b173b883"
 metafile = true
 
 [[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "5e9af16aef283e0f6c7aff45a97724e305e650558bdbf51cfe4910af2cc1ad08"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
@@ -367,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "0c1a1e3fcc970455a3e2dacda3bdf8bf8c73483af833558cd06327e2bf77de65"
-metafile = true
-
-[[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
 metafile = true
 
 [[files]]
@@ -417,11 +433,6 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "4485332b8ff7be999cc4142ecad55763acdb587df69f748170bf5644f72d5729"
-metafile = true
-
-[[files]]
-file = "mods/easy-npc.pw.toml"
-hash = "9f8c7795f9ebd029026455808ccd0b4c66fd13b3f2f040a8f11762ffce6599aa"
 metafile = true
 
 [[files]]
@@ -497,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "8019c959470a044e54d1a95004a19181e647570bcceff5886ad3c4d944697d01"
 metafile = true
 
 [[files]]
@@ -670,11 +686,6 @@ hash = "e8c25902953ac651fefd314650856f82fcf8237d739b65d98249955fe29fbaf4"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases-forge.pw.toml"
-hash = "527d67c3be0a653c50cc2f992f0f764f13f6670aa1296f7d6c63dd1ea2a553ca"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
 metafile = true
@@ -755,6 +766,11 @@ hash = "3ecb49498a9bfd8fb1f980236dbca36d42d5b458f539770b4b4124ffad9d76b5"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "83ef512cbf8b11ce4352938202a342d3d838b0a9a1fc8c682876f6be927458df"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
@@ -777,6 +793,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "3889811ce4356a342fabf075521c7cdb637b39472978576c55d80c8d53670b30"
 metafile = true
 
 [[files]]
@@ -895,11 +916,6 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
 metafile = true
@@ -952,6 +968,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "27426fab65fd12a837b5a480f39713e02a9cafd0a3e9da651f7af5015ad88b2c"
 metafile = true
 
 [[files]]
@@ -1008,20 +1029,12 @@ file = "resourcepacks/FancyFast Bushy Leaves.zip"
 hash = "6b87c018ec91782ca656d83199f624f8477659ed140686f96380e659b2bcaf38"
 
 [[files]]
-file = "resourcepacks/FreshAnimations_v1.9.3.zip"
-hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
-
-[[files]]
-file = "resourcepacks/HEV FreshAni Activator.zip"
-hash = "cb8950f7bd6d74fbbced8b96473d5adacadf548ede021af734c177beeee4ced1"
-
-[[files]]
 file = "resourcepacks/HEV Human Guard Armor Texture Remover.zip"
 hash = "bd10ad9319ab72297d413cc6a5be28c0091156b0568f6335a37edf3de0deb1fa"
 
 [[files]]
-file = "resourcepacks/HEV Human Guard FreshAni.zip"
-hash = "8cdf4bb4158b2d544f71a0665d62d6f1f680d5094bfc0d3cf802f95ca80c89bc"
+file = "resourcepacks/HEV Human Guard.zip"
+hash = "8b22d829cf0c117441154dc3699576e44849e79c6bbadba1ed9293369e5bb383"
 
 [[files]]
 file = "resourcepacks/HumanEraVillagersIllagers.zip"

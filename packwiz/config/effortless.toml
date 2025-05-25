@@ -17,7 +17,7 @@ player = {}
 	useProperToolsOnly = true
 	#The maximum distance a player can reach when building using this mod. 
 	#Range: 0 ~ 32767
-	maxReachDistance = 128
+	maxReachDistance = 48
 	#The maximum block volume a player can break at once when building using this mod. 
 	#Range: 0 ~ 1000000
 	maxBlockBreakVolume = 10000

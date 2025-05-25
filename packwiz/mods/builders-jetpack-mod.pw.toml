@@ -1,0 +1,13 @@
+name = "Builders' Jetpack Mod"
+filename = "buildersjetpackmod-2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FU3J9Ce4/versions/81GhRxm9/buildersjetpackmod-2.0-1.21.1.jar"
+hash-format = "sha1"
+hash = "b4184d705700123abcc4571cd6aceccf6ae55439"
+
+[update]
+[update.modrinth]
+mod-id = "FU3J9Ce4"
+version = "81GhRxm9"

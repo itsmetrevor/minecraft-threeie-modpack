@@ -1,0 +1,13 @@
+name = "Ars Nouveau"
+filename = "ars_nouveau-1.21.1-5.8.3-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TKB6INcv/versions/3ZneDEV4/ars_nouveau-1.21.1-5.8.3-all.jar"
+hash-format = "sha1"
+hash = "f986e0d69f10f21f2aaa806cd7a9d09da702e58e"
+
+[update]
+[update.modrinth]
+mod-id = "TKB6INcv"
+version = "3ZneDEV4"

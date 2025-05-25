@@ -1,5 +1,4 @@
 {
-  "balm:jade": null,
   "jade:block_face": null,
   "jade:block_properties": null,
   "jade:block_states": null,
@@ -73,6 +72,4 @@
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
   "treechop:plugin": null,
-  "twilightforest:chiseled_bookshelf_spawner": null,
-  "twilightforest:quest_ram_wool": null
 }

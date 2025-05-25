@@ -77,10 +77,6 @@
     "entity": true,
     "entity_variant": true
   },
-  "twilightforest": {
-    "chiseled_bookshelf_spawner": true,
-    "quest_ram_wool": true
-  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -92,7 +88,4 @@
     "block_properties": false,
     "mod_name": true
   },
-  "balm": {
-    "jade": true
-  }
 }

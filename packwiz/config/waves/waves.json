@@ -7,8 +7,6 @@
         "minecraft:overworld",
         "minecraft:nether",
         "minecraft:the_end",
-        "twilightforest:twilight_forest",
-        "deeperdarker:otherside"
       ],
       "sea_level": 63
     }
